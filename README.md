@@ -1,11 +1,13 @@
-<html>
-  
-  <head>
-  <title> </title>
-  <style>
-  </style>
-  </head>
-  <body>
-  </body>
-  
-  </html>
+<!DOCTYPE html>
+<h2>
+Alexis Mickelson
+</h2>
+<title></title>
+<script>
+</script>
+<body>
+
+</body>
+<p>
+<strong></strong>
+</html>
